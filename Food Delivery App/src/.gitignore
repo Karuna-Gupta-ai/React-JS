@@ -1,0 +1,19 @@
+# Node modules (dependency packages)
+node_modules/
+
+# Build output (if using Vite or similar)
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+

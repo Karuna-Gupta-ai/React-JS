@@ -2,7 +2,7 @@ import React from 'react'
 import HProduct from './HProduct'
 import Turnip from '../assets/Images/turnip.png'
 import Celery from '../assets/Images/Celery.png'
-import Amaranth  from '../assets/Images/Amaranth.png'
+import A_Patti  from '../assets/Images/A_Patti.png'
 import Veg1  from '../assets/Images/veg1.jpg'
 import Veg2  from '../assets/Images/veg2.jpg'
 import Veg3  from '../assets/Images/veg3.jpg'
@@ -23,7 +23,7 @@ const Healthy = () => {
             />
             <HProduct 
                 Image = {Veg2}
-                Image2 = {Amaranth}
+                Image2 = {A_Patti}
                 Title = "Delicious"
                 Description = "Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce"
             />
