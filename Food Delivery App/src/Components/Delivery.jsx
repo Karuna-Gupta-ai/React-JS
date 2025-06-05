@@ -14,7 +14,7 @@ const Delivery = () => {
         </div>
         <h5>Pick Your Veg</h5>
         <p>
-        Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi.
+        Choose fresh veggies from your choice.
         </p>
       </div>
       <div className=" col px-5 text-center">
@@ -23,7 +23,7 @@ const Delivery = () => {
         </div>
         <h5>We Deliver the Bag</h5>
         <p>
-          Gumbo beet greens corn soko endive gumbo gourd parsley.
+          Free delivery of fresh veggies at your doorstep in just 20 minutes.
           </p>
       </div>
       <div className=" col px-5 text-center">
@@ -32,7 +32,7 @@ const Delivery = () => {
         </div>
         <h5>You Enjoy Your Veg</h5>
           <p>
-          Dandelion cucumber earthnut pea peanut soko zucchini.
+          Feel the freshness and enjoy your veggie bag.
           </p>
       </div>
     </div>
