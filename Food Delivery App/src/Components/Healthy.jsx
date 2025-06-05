@@ -18,20 +18,20 @@ const Healthy = () => {
             <HProduct 
                 Image = {Veg1}
                 Image2 = {Turnip}
-                Title = "Delicious"
-                Description = "Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce"
+                Title = "Delicious!!!"
+                Description = "Let food be the medicine and medicine be the food."
             />
             <HProduct 
                 Image = {Veg2}
                 Image2 = {A_Patti}
-                Title = "Delicious"
-                Description = "Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce"
+                Title = "Delicious!!!"
+                Description = "To eat is a necessity, but to eat intelligently is an art."
             />
             <HProduct 
                 Image = {Veg3}
                 Image2 = {Celery}
-                Title = "Delicious"
-                Description = "Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce"
+                Title = "Delicious!!!"
+                Description = "Every time you eat is an opportunity to nourish your body."
             />
         </div>
         </div>
