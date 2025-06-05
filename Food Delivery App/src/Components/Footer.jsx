@@ -61,7 +61,7 @@ const Footer = () => {
                 </li>
                 <li class="nav-item mb-2">
                   <a href="#" class="nav-link p-0 text-white">
-                    Mix Vegetables
+                    Cereal and Pulses
                   </a>
                 </li>
                 <li class="nav-item mb-2">
@@ -78,13 +78,13 @@ const Footer = () => {
                 <li class="nav-item mb-2">
                   <a href="#" class="nav-link p-0 text-white">
                     <i className="bi bi-geo-alt-fill me-2"></i>
-                    <span>physical address abc</span>
+                    <span>Wadgaon Shinde, Lohegaon, Pune</span>
                   </a>
                 </li>
                 <li class="nav-item mb-2">
                   <a href="#" class="nav-link p-0 text-white">
                     <i className="bi bi-envelope-at me-2"></i>
-                    <span>example@ex.com</span>
+                    <span>kgupta7676@gmail.com</span>
                   </a>
                 </li>
               </ul>
@@ -93,21 +93,21 @@ const Footer = () => {
 
           <div class="d-flex justify-content-between pt-4 mt-4 border-top">
             <p className="text-white">
-              &copy; 2023 Company, Inc. All rights reserved.
+              &copy; 2024 Company, Inc. All rights reserved.
             </p>
             <ul class="list-unstyled d-flex">
               <li class="ms-3">
-                <a class="link-dark" href="#">
+                <a class="link-dark" href="https://www.facebook.com">
                   <i className="bi bi-facebook text-white"></i>
                 </a>
               </li>
               <li class="ms-3">
-                <a class="link-dark" href="#">
+                <a class="link-dark" href="https://www.instagram.com/">
                   <i className="bi bi-instagram text-white"></i>
                 </a>
               </li>
               <li class="ms-3">
-                <a class="link-dark" href="#">
+                <a class="link-dark" href="https://x.com/">
                   <i className="bi bi-twitter text-white"></i>
                 </a>
               </li>
